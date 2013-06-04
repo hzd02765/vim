@@ -20,5 +20,5 @@ filetype indent on
 " SSH クライアントの設定によってはマウスが使える（putty だと最初からいける）
 set mouse=n
 
-# 行番号の表示
+" 行番号の表示
 set number
