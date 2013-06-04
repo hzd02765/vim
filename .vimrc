@@ -4,5 +4,9 @@ path: ~/.vimrc
 vi ~/.bashrc
 vi='vi -u NONE --noplugin'
 
+----
+
+vi ~/.vimrc
+
 # 行番号の表示
 set number
