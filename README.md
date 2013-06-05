@@ -1,6 +1,6 @@
 ## 設定ファイルの作成
 
-    git clone 
+    git clone git@github.com:hzd02765/vim.git ~/.vim
     cp ./.vimrc ~/
 
 ## viのエイリアスを設定
